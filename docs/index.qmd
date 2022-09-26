@@ -146,7 +146,7 @@ create_section(cv, "education")
 
 <p class="footer">
 
-Resume made with 💜 and [Quarto](https://quarto.org/). Last updated on `r format.Date(Sys.Date(), "%b %d, %Y")`. <br> Code available on <i class="fa-brands fa-github"></i> [GitHub](https://github.com/beatrizmilz/resume). <br>License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+Resume made with 💜 and [Quarto](https://quarto.org/). Last updated on `r format.Date(Sys.Date(), "%b %d, %Y")`. <br> Code available on <i class="fa-brands fa-github"></i> [GitHub](https://github.com/ambarja/Resume). <br>License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 
 </p>
 
