@@ -11,6 +11,11 @@ knitr:
     message: false
     warning: false
 ---
+<style>
+    h1{
+    margin-bottom: 5px;
+    }
+</style>
 
 ```{r}
 #| include: false
@@ -42,15 +47,11 @@ cv <- googlesheets4::read_sheet(cv_url)
 
 </span>
 
-Hello! I am a spatial data scientist in development in the [**Healthinnovation Lab**](https://www.innovalab.info/) at the Universidad Peruana Cayetano Heredia - Peru. 
-I am currently a GIS analyst and developer.
-My work environment involves spatial data analysis and spatio-temporal modeling with focus on spatial epidemiology.
-My main skills are the use of different free and open source geographic information technologies.
-
+Hello! I am a spatial data scientist in development in the [**Healthinnovation Lab**](https://www.innovalab.info/) at the Universidad Peruana Cayetano Heredia - Peru. I am currently a GIS analyst and developer. My work environment involves spatial data analysis and spatio-temporal modeling with focus on spatial epidemiology. My main skills are the use of different free and open source geographic information technologies.
 
 ### Languages
 
-**Spanish:** Native <br> **English:** Learning
+**Spanish:** Native <br> **English:** Intermedio (Learning)
 
 ### Software
 
@@ -121,6 +122,10 @@ create_section <- function(cv_data, section_name){
 <!-- Main content -->
 
 # Antony Barja
+
+### GIS analyst and developer
+
+`#R` `#QGIS` `#GEE` `#Python` `#linux`
 
 ## <i class="fa-solid fa-suitcase"></i> Work
 
